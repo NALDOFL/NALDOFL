@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NALDOFL
-- 👀 I’m interested in Technolgy
+- 👀 I’m interested in Technology
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
